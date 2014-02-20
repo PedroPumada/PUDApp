@@ -1,0 +1,177 @@
+body {
+  margin: 0
+}
+
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#content h2 {
+	color: #0F7BBF;
+	text-align: center;
+	font-family: Arial; 
+}
+#content h3 {
+	text-decoration: underline;
+	font-family: Arial;
+}
+#content ol {
+	font-family: Arial;
+}
+#content ul {
+	font-family: Arial;
+}
+#content p {
+	font-family: Arial;
+}
+#content table {
+	position: relative;
+}
+#content .firstUL {
+	list-style-type: upper-alpha;
+}
+#content .firstSubOrder {
+	list-style-type: lower-roman;
+}
+#content .sectionCheck {
+	font-family: Arial;
+	font-weight: bold;
+	border: 1px black solid;
+	color: #0F7BBF;
+	font-size: 8;
+}
+#content #red {
+	color: red;
+	font-style: bold;
+}
+#content #explanation {
+	font-style: italic;
+	font-size: 8;
+}
+
+.error {
+	color: red;
+}
+
+#footer p {
+text-align: center;
+font-family: Arial;
+font-size: 11px;
+}
+
+#footer a {
+display: block;
+text-align: center;
+font-family: Arial;
+font-size: 11px;
+}
+
+#header {
+    background-color: #007AC9;
+    height: 30px;
+}
+#header p {
+float: right;
+font-family: Arial;
+font-weight: bold;
+text-decoration: underline;
+font-size: 12px;
+margin-right: 20px;
+margin-top: 12px;
+color: #FFFFFF;    
+}
+
+#header a {
+float: right;
+font-family: Arial;
+font-weight: bold;
+text-decoration: underline;
+font-size: 12px;
+margin-right: 20px;
+margin-top: 12px;
+color: #FFFFFF;    
+}
+
+.input-section {
+display: table;
+}
+
+.input-row {
+display: table-row;
+}
+
+.input-cell-label {
+display: table-cell;
+width: 190px;
+}
+
+.input-cell-box {
+display: table-cell;
+width: 600px;
+font-family: Arial;
+font-size: 8;
+}
+
+.input-cell-gap {
+display: table-cell;
+width: 110px;
+}
+
+.property-cell-input {
+display: table-cell;
+width: 100px;
+}
+
+.property-cell-check {
+display: table-cell;
+width: 100px;
+}
+
+.property-cell-header {
+display: table-cell;
+font-weight: bold;
+width: 100px;
+}
+
+.construction-cell-label {
+display: table-cell;
+vertical-align: bottom;
+width: 100px;
+}
+
+.construction-cell-input {
+display: table-cell;
+width: 150px;
+vertical-align: bottom;
+font-family: Arial;
+font-size: 14px;
+}
+
+.other-property-label {
+display: table-cell;
+width: 220px;
+font-family: Arial;
+padding: 5px 0 0 0;
+}
+
+.other-property-input {
+display: table-cell;
+width: 80px;
+padding: 5px 0 0 0;
+}
+
+label {
+font-family: Arial;
+font-size: 8;
+}
+.optional {
+background-color: #FCB930;
+}
+
+.long-question {
+width: 300px;
+}
+h4 {
+font-family: Arial;
+}
